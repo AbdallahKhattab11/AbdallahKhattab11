@@ -1,16 +1,13 @@
 <div align="center" width="50">
+  
+<h1><strong> Abdallah Khattab 👋 </h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
-<details>
-<p><strong> <summary>  Currently Coding & Vibing to: </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=abdallahkhattab&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fabdallahkhattab&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+<p align="left">
+  Hello, I'm Abdallah Khattab, a passionate Front-End Developer with a keen eye for design and a love for crafting engaging web experiences.
+  My journey into web development began with a deep curiosity about how websites work, and that curiosity soon transformed into a professional passion for building modern, user-friendly applications.
+I specialize in building user-friendly interfaces using React and modern web technologies. My approach combines clean code practices with creative design solutions to deliver exceptional user experiences.
+</p>
 
 </div>
 
@@ -52,20 +49,20 @@ const AbdallahKhattab = {
     'SEO',
     'Performance'
   ],
-  tools: ['VSCode', 'Figma']
+  tools: ['VSCode', 'Figma', 'Vite']
 };
 ```
 
 - 👨‍💻 Currently working on creating engaging & optimized front-end experiences.
 - ⚡ Passionate about UI/UX, motion design & clean code.
 - 💬 Ask me about JavaScript, React, or building responsive web interfaces.
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abdallahkhattab/)
-- ☕ Fun fact: I believe great design starts with empathy and a little bit of motion ✨
+- 📫 Reach me on [LinkedIn]([https://www.linkedin.com/in/abdallahkhattab/](https://www.linkedin.com/in/abdallah-khattab-653729247/))
+- 🧠 Fun fact: I believe small UI details create the biggest emotional impact.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-  <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/AbdallahKhattab11/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/AbdallahKhattab11/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+  <img src="https://raw.githubusercontent.com/AbdallahKhattab11/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 </div>
 
 <hr>
