@@ -17,5 +17,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          persist-credentials: false
           USERNAME: AbdallahKhattab11
 
